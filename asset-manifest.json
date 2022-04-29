@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/codesgenius.github.io-dictionary/static/css/main.0f581820.css",
-    "main.js": "/codesgenius.github.io-dictionary/static/js/main.d92ed8f3.js",
+    "main.css": "/codesgenius.github.io-dictionary/static/css/main.44672296.css",
+    "main.js": "/codesgenius.github.io-dictionary/static/js/main.3af8696e.js",
     "static/js/787.951cf9d5.chunk.js": "/codesgenius.github.io-dictionary/static/js/787.951cf9d5.chunk.js",
     "static/media/logo.png": "/codesgenius.github.io-dictionary/static/media/logo.b6db5dd5c291d61b5af1.png",
     "index.html": "/codesgenius.github.io-dictionary/index.html",
-    "main.0f581820.css.map": "/codesgenius.github.io-dictionary/static/css/main.0f581820.css.map",
-    "main.d92ed8f3.js.map": "/codesgenius.github.io-dictionary/static/js/main.d92ed8f3.js.map",
+    "main.44672296.css.map": "/codesgenius.github.io-dictionary/static/css/main.44672296.css.map",
+    "main.3af8696e.js.map": "/codesgenius.github.io-dictionary/static/js/main.3af8696e.js.map",
     "787.951cf9d5.chunk.js.map": "/codesgenius.github.io-dictionary/static/js/787.951cf9d5.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0f581820.css",
-    "static/js/main.d92ed8f3.js"
+    "static/css/main.44672296.css",
+    "static/js/main.3af8696e.js"
   ]
 }
